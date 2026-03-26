@@ -1,0 +1,18 @@
+# Python env
+.venv/
+.ipynb_checkpoints/
+
+# Environment vars
+.env
+
+# Datasets
+dataset*
+
+# IDE
+.idea/
+.vscode/
+
+# AI tools
+.codemie/
+.claude/
+
